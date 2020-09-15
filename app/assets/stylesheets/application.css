@@ -27,12 +27,12 @@ html, body {
 }
 a {
   background: transparent;
-  color: maroon;
+  color: black;
   text-decoration: underline;
   font-weight: bold;
 }
 h1 {
-  color: maroon;
+  color: black;
   font-size: 150%;
   font-style: italic;
   display: block;
@@ -42,7 +42,7 @@ h1 {
 .title {
   margin: 0 0 1em;
   padding: 10px;
-  background-color: orange;
+  background-color: blue;
   color: white;
   border-bottom: 4px solid gold;
   font-size: 2em;
